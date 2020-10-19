@@ -1,0 +1,19 @@
+{
+  "BLUEPILL_F103C8": {
+    "inherits": [
+      "MCU_STM32F103x8"
+    ],
+    "overrides": {
+      "clock_source": "USE_PLL_HSE_XTAL"
+    },
+    "device_has_remove": [
+      "STDIO_MESSAGES"
+    ],
+    "extra_labels_add": [
+      "STM32F1",
+      "STM32F103x8",
+      "STM32F103C8"
+    ],
+    "device_name": "STM32F103C8"
+  }
+}
