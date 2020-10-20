@@ -70,7 +70,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
-  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8"
+  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/Legacy"
@@ -957,8 +957,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/stm32f1xx_ll_usb.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/stm32f1xx_ll_usb.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/stm32f1xx_ll_utils.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/stm32f1xx_ll_utils.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.obj"
+  "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.obj"
-  "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/analogin_device.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/analogin_device.c.obj"
   "/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/flash_api.c" "/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/flash_api.c.obj"
@@ -1049,7 +1049,7 @@ set(CMAKE_TARGET_DEFINITIONS_C
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8"
+  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/Legacy"
@@ -1721,7 +1721,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8"
+  "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8"
   "../mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/Legacy"

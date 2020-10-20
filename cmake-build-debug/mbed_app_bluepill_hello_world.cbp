@@ -104,7 +104,7 @@
 					<Add option="-D__CORTEX_M3"/>
 					<Add option="-D__MBED_CMSIS_RTOS_CM"/>
 					<Add option="-D__MBED__=1"/>
-					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8"/>
+					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/Legacy"/>
@@ -491,7 +491,7 @@
 					<Add option="-D__CORTEX_M3"/>
 					<Add option="-D__MBED_CMSIS_RTOS_CM"/>
 					<Add option="-D__MBED__=1"/>
-					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8"/>
+					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8"/>
 					<Add directory="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/STM32F1xx_HAL_Driver/Legacy"/>
@@ -7014,6 +7014,12 @@
 		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/PeripheralNames.h">
 			<Option target="mbed_app_bluepill_hello_world"/>
 		</Unit>
+		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c">
+			<Option target="mbed_app_bluepill_hello_world"/>
+		</Unit>
+		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PinNames.h">
+			<Option target="mbed_app_bluepill_hello_world"/>
+		</Unit>
 		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S">
 			<Option target="mbed_app_bluepill_hello_world"/>
 		</Unit>
@@ -7024,12 +7030,6 @@
 			<Option target="mbed_app_bluepill_hello_world"/>
 		</Unit>
 		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/PeripheralNames.h">
-			<Option target="mbed_app_bluepill_hello_world"/>
-		</Unit>
-		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c">
-			<Option target="mbed_app_bluepill_hello_world"/>
-		</Unit>
-		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PinNames.h">
 			<Option target="mbed_app_bluepill_hello_world"/>
 		</Unit>
 		<Unit filename="/home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S">

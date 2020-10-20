@@ -11298,18 +11298,18 @@ CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_S
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c -o CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.s
 
-CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj: CMakeFiles/mbed_app_bluepill_hello_world.dir/flags.make
-CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj: ../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building C object CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj   -c /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c
+CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj: CMakeFiles/mbed_app_bluepill_hello_world.dir/flags.make
+CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj: ../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ozzy/git/private/mbed_app_bluepill_hello_world/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building C object CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj   -c /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c
 
-CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c > CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i
+CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c > CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i
 
-CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c -o CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s
+CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ozzy/git/private/mbed_app_bluepill_hello_world/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c -o CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s
 
 CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj: CMakeFiles/mbed_app_bluepill_hello_world.dir/flags.make
 CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj: ../mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S
@@ -12599,7 +12599,7 @@ mbed_app_bluepill_hello_world_OBJECTS = \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.obj" \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj" \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.obj" \
-"CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj" \
+"CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj" \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj" \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.c.obj" \
 "CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/analogin_device.c.obj" \
@@ -13502,7 +13502,7 @@ mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.obj
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.obj
-mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj
+mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.c.obj
 mbed_app_bluepill_hello_world: CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/analogin_device.c.obj

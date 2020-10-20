@@ -14,6 +14,9 @@
       "STM32F103x8",
       "STM32F103C8"
     ],
-    "device_name": "STM32F103C8"
+    "device_name": "STM32F103C8",
+    "supported_application_profiles": [
+      "bare-metal"
+    ]
   }
 }

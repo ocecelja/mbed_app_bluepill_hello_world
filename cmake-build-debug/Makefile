@@ -23421,6 +23421,33 @@ mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.s
 .PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.c.s
 
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.obj: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj
+
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.obj
+
+# target to build an object file
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.obj
+
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.i: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i
+
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.i
+
+# target to preprocess a source file
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.i
+
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.s: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s
+
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.s
+
+# target to generate assembly for a file
+mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s
+.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.c.s
+
 mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.obj: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj
 
 .PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.obj
@@ -23456,33 +23483,6 @@ mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.s: mbe
 mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.s
 .PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.c.s
-
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.obj: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj
-
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.obj
-
-# target to build an object file
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.obj
-
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.i: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i
-
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.i
-
-# target to preprocess a source file
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.i
-
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.s: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s
-
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.s
-
-# target to generate assembly for a file
-mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbed_app_bluepill_hello_world.dir/build.make CMakeFiles/mbed_app_bluepill_hello_world.dir/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s
-.PHONY : mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.c.s
 
 mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.obj: mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.S.obj
 
@@ -26952,13 +26952,13 @@ help:
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.obj"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.i"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/STM32Cube_FW/system_stm32f1xx.s"
+	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.obj"
+	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.i"
+	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TARGET_STM32F103C8/PeripheralPins.s"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.obj"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.obj"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.i"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103x8/system_clock.s"
-	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.obj"
-	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.i"
-	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TARGET_STM32F103C8/PeripheralPins.s"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/TOOLCHAIN_GCC_ARM/startup_stm32f103xb.obj"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.obj"
 	@echo "... mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_STM32F103xB/system_clock.i"
